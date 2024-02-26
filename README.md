@@ -41,7 +41,9 @@ Build and tested with Node.js version 20.11.1
     MONGODB_URI=your-mongodb-uri
     ```
 
-    Replace `your-mongodb-uri` with your actual MongoDB connection URI.
+    Replace `your-mongodb-uri` with your actual MongoDB connection URI.<br>
+    ### For this backend engineer test, please use this mongodb connection:<br>
+    #### MONGO_DB_URI=mongodb+srv://perspective-admin:4KawPPpaTF2cbEHS@perspective-user.a1rbktl.mongodb.net/?retryWrites=true&w=majority&appName=perspective-user
 
 ## Usage
 
